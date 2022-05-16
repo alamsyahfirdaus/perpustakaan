@@ -1,0 +1,6 @@
+1. Buat Database dengan nama apk_perpustakaan.
+2. Import Database yang terdapat pada folder assets > sql.
+
+Akun Login Pengguna
+Email : user@gmail.com
+Password : user@gmail.com
